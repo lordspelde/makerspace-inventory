@@ -10,6 +10,9 @@
                 There's not much here yet, but in the future there will be more content and features
                 for tracking the Makerspace's inventory of various components.
             </p>
+            <p>
+                Until then, I've filled the space with this AI-generated cat image carousel to meet the requirements :)
+            </p>
         </div>
         
         <div class="carousel-wrapper">
