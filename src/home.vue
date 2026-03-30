@@ -5,10 +5,9 @@
 <template>
     <div class="d-flex align-center justify-center mt-8" style="gap: 2rem;">
         <div class="text-block" style="max-width: 320px;">
-            <h2 class="mb-2">Makerspace Inventory Manager</h2>
+            <h2 class="mb-2">Pet Portfolio</h2>
             <p class="mb-4">
-                There's not much here yet, but in the future there will be more content and features
-                for tracking the Makerspace's inventory of various components.
+                There's not much here yet, but in the future there will be more!
             </p>
             <p>
                 Until then, I've filled the space with this AI-generated cat image carousel to meet the requirements :)
